@@ -11,4 +11,4 @@ Containerized through Docker, ochestrated by Prefect, dashboard created through 
 2. Load transformed data into Postgres Database, which is then connected to Power BI for further visualizations.
 
 # Dashboard
-[dashboard](https://user-images.githubusercontent.com/110737193/212569649-cb479431-2e28-49d9-b450-6eef791e5539.PNG)
+![dashboard](https://user-images.githubusercontent.com/110737193/212569649-cb479431-2e28-49d9-b450-6eef791e5539.PNG)
