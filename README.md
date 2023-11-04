@@ -1,4 +1,4 @@
-# cheapsharkETL
+# Game Deals Data Integrator: ETL Pipeline & Visualization
 
 An ETL pipeline that calls the Cheapshark API, transforms data into CSV, and uploads into a Postgres database. Database is then connected to Power BI for further visualizations.
 
